@@ -11,6 +11,9 @@ class PreviousResults extends Component {
         return (
             <div className="input-panel">
                 <div><span className="field-name"></span>{team} - Last 5 results</div>
+                <br/>
+                Test
+                <br/>
             </div>
         );
     }
